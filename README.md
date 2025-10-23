@@ -77,7 +77,7 @@ If you find the Golden Key → You win.
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/preslaviliev93/PythonTextAdventureGame.git](https://github.com/preslaviliev93/PythonTextAdventureGame.git)
+git clone https://github.com/preslaviliev93/PythonTextAdventureGame.git
 cd dungeon-crawler-golden-key
 
 python main.py
