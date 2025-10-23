@@ -5,7 +5,7 @@ Move through rooms, collect items, fight monsters, and find the **Golden Key** t
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 You start your journey in a randomly generated map filled with rooms.  
 Each room may contain:
@@ -18,7 +18,7 @@ If your health drops to `0`, the game ends - the monsters have defeated you.
 
 ---
 
-## 🧱 Features
+## Features
 
 - **Turn-based combat system** (player vs. monster).
 - **Procedurally generated map** (3×3 to 10×10 grid).
@@ -77,7 +77,7 @@ If you find the Golden Key → You win.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/preslaviliev93/PythonTextAdventureGame.git
+git clone [https://github.com/preslaviliev93/PythonTextAdventureGame.git](https://github.com/preslaviliev93/PythonTextAdventureGame.git)
 cd dungeon-crawler-golden-key
 
 python main.py
